@@ -1,9 +1,7 @@
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](https://www.railstutorial.org/)
-(6th Edition)
-by [Michael Hartl](https://www.michaelhartl.com/).
+## Tweeter_clone
+Work in progress you can see the live progress here https://shrouded-taiga-05365.herokuapp.com/.
+Hosting is free so it may take a moment to spin up. 
 
 ## License
 
@@ -36,6 +34,3 @@ If the test suite passes, you'll be ready to run the app in a local server:
 ```
 $ rails server
 ```
-
-For more information, see the
-[*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
